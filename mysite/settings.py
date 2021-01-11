@@ -25,7 +25,7 @@ SECRET_KEY = '@a(1z5y^tnr&e^mn0x84h93g5v1xd!1u9d7r9q7#!42ewyw@1m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com', 'teavee.pythonanywhere.com']
 
 
 # Application definition
